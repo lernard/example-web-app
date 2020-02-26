@@ -1,3 +1,12 @@
+# Test Web app - Lernard.com
+
+This web app is to be used alongside the https://www.lernard.com Jenkins course.
+It was created very quickly using an automated tool, and although the details of how this was done do not relate to the course, if you're interested in creating you own, you can learn more below from the automatically generated readme that accompanies the app. 
+
+From the perspective of learning Jenkins, you do not need to know any of the below. All course specific information is provided in the course itself.
+
+## Creation
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
